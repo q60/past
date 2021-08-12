@@ -9,7 +9,7 @@ fetching console utility. Written in Factor.
 Installing
 ----------
 
-+ Use latest sources from `releases <https://github.com/q60/past/releases>`__
++ Use latest **x86_64** binary from `releases <https://github.com/q60/past/releases>`__
 
 Building and installing manually
 --------------------------------
