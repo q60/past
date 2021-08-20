@@ -1,7 +1,7 @@
-past |factor|
+p'ast |factor|
 ====
 
-**P'ast** (IPA: [pʰɑst], stylized as *փաստ*) is a random quote
+**Փաստ** (IPA: [pʰɑst], stylized as *փաստ*) is a random quote
 fetching console utility. Written in Factor.
 
 |screenshot|
